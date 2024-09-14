@@ -4,3 +4,8 @@ public class HelloWorldDeLei {
 		System.out.println("Hello World");
 	}
 }
+
+// Comentário de uma linha
+
+/* comentário para 
+várias linhas */
