@@ -5,8 +5,8 @@ public class OperadoresRelacionais {
 	public static void main(String[] args) {
 		// São eles: <, >, <=, >=, ==, !=
 		
-		boolean isDezMaiorQueVinte = 10 > 20;
-		boolean isDezMenorQueVinte = 10 < 20;
+		boolean isDezMaiorQueVinte = 10 >= 20;
+		boolean isDezMenorQueVinte = 10 <= 20;
 		boolean isDezIgualVinte = 10==20;
 		boolean isDezDiferenteVinte = 10!=20;
 		
