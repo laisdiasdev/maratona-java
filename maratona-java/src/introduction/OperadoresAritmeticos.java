@@ -11,7 +11,8 @@ public class OperadoresAritmeticos {
 		System.out.println(resultado);
 		
 		// Operador de resto: %
-		
+		int resto = 21 % 5;
+		System.out.println(resto);
 	}
 
 }
