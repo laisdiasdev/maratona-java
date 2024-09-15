@@ -11,7 +11,8 @@ public class TiposPrimitivosPt2 {
 		int num = (int)23000000000L;
 		System.out.println("Número inteiro forçado: "+num);
 		
-		// a impressão será um número diferente, pois o casting "cortou" os bits para que coubessem no int 
+		// a impressão será um número diferente, pois o casting "cortou" os bits para que coubessem no int
+		// não é uma boa prática
 		
 		}
 
