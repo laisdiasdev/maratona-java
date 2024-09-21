@@ -10,6 +10,8 @@ public class ElseIF {
 		
 		if (media >= 7) {
 			System.out.println("Aprovado!");
+		}else if(media >= 3 & media <= 6){
+			System.out.println("Deve fazer recuperação");
 		}else {
 			System.out.println("Reprovado");
 		}
