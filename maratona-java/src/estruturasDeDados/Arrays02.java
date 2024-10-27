@@ -25,6 +25,13 @@ public class Arrays02 {
 		System.out.println(exemplo3[0]);
 		System.out.println(exemplo3[1]);
 		System.out.println(exemplo3[2]);
+		System.out.println("");
+				
+		long[] exemplo4 = new long[3];
+		System.out.println(exemplo4[0]);
+		System.out.println(exemplo4[1]);
+		System.out.println(exemplo4[2]);
+		System.out.println("");
 
 	}
 
