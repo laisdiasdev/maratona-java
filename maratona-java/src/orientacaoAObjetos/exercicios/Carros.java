@@ -14,9 +14,11 @@ public class Carros extends Carro {
 		carro2.ano  = 2010;
 		carro2.modelo = "Picape";
 		
+		System.out.println("Carro1");
 		System.out.println(carro1.nome);
 		System.out.println(carro1.modelo);
 		System.out.println("============");
+		System.out.println("Carro2");
 		System.out.println(carro2.nome);
 		System.out.println(carro2.modelo);
 	}
